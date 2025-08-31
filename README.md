@@ -18,8 +18,7 @@ This project is a demo web application for Network Intrusion Detection using a R
 ## Demo
 
 Try the live demo hosted on Streamlit Cloud:
-
-[https://share.streamlit.io/your-username/your-repo-name/main/app.py](https://share.streamlit.io/your-username/your-repo-name/main/app.py)
+(https://nids-demo-snxut825dynpke3so3j9yk.streamlit.app/)
 
 ---
 
