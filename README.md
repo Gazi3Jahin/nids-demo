@@ -28,11 +28,3 @@ Try the live demo hosted on Streamlit Cloud:
 
 - Python 3.7+
 - `pip` package manager
-
-### Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
