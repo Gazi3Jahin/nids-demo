@@ -21,11 +21,7 @@ Try the live demo hosted on Streamlit Cloud:
 (https://nids-demo-snxut825dynpke3so3j9yk.streamlit.app/)
 
 ---
-## License
 
-This project is licensed under the MIT License — see the LICENSE file for details.
-
-Author Gazi Jahin CSE Graduate | Bangladesh
 
 ## Getting Started
 
@@ -33,3 +29,10 @@ Author Gazi Jahin CSE Graduate | Bangladesh
 
 - Python 3.7+
 - `pip` package manager
+
+
+#### License
+
+This project is licensed under the MIT License — see the LICENSE file for details.
+
+Author Gazi Jahin CSE Graduate | Bangladesh
